@@ -18,10 +18,7 @@ Not sure which Mac you have? Apple menu → **About This Mac**: "Chip: Apple M�
 
 ## Installing
 
-**Mac:** open the DMG and drag **The Ninth Path** into Applications. The game isn't signed by Apple yet, so the first time it opens macOS says *"Apple could not verify…"*:
-1. Click **Done** (not Move to Trash).
-2. Open **System Settings → Privacy & Security**, scroll to the bottom, and click **Open Anyway** next to "The Ninth Path".
-3. Confirm with your password. After that it opens normally.
+**Mac:** open the DMG and drag **The Ninth Path** into Applications, then open it. It's signed and checked by Apple, so it opens like any other app. (The first time, macOS may ask "downloaded from the internet. Are you sure you want to open it?": click **Open**.)
 
 **Windows:** run the Setup file. If Windows SmartScreen warns you, click **More info** → **Run anyway**.
 
