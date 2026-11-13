@@ -2,7 +2,7 @@
 
 *Before all things there was the Deep. Then the Speaker said one Word, and there was Light.*
 
-An original roguelike deckbuilder. Carry the Light across the Dawnmarch as a Paladin, a Penumbra or a Lightweaver, and keep your vow.
+An original roguelike deckbuilder. Carry the Light across the Dawnmarch as a Watcher, a Penumbra or a Lightweaver, and keep your vow.
 
 ## ⬇ Download
 
