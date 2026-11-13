@@ -26,7 +26,8 @@ Not sure which Mac you have? Apple menu → **About This Mac**: "Chip: Apple M�
 **Windows:** run the Setup file. If Windows SmartScreen warns you, click **More info** → **Run anyway**.
 
 ## Playing
-- **⚙ Settings** (title screen or ☰ Menu): volume, full screen, quit. **F11** toggles full screen.
+- **⚙ Settings** (title screen or ☰ Menu): volume, full screen, quit. Full screen: **Ctrl+⌘+F** on a Mac, **F11** on Windows; **Esc** leaves it.
+- When a new version comes out, the title menu tells you, with a button to this page.
 - Your progress (stars, unlocked heroes, the Bestiary) is saved on your computer.
 
 This page only hosts the downloads. The game is a work in progress, so expect new Days, heroes and fixes in each version.
